@@ -61,7 +61,7 @@ Custom CSS styling
 
 Clone this repository:
 
-git clone https://github.com/your-username/portfolio-website.git
+git clone https://shynielawrence04.github.io/portfolio-simple-website/
 
 
 Open index.html in your browser 🌍
